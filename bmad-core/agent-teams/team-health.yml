@@ -1,0 +1,10 @@
+bundle:
+  name: Team Health
+  icon: 🍍
+  description: Team specialized in nutrition guidance, workout planning, grocery management and cooking support.
+agents:
+  - nutritionist
+  - fitness-trainer
+  - grocery-manager
+  - chef
+workflows: []
